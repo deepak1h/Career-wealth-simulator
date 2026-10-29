@@ -1,0 +1,6 @@
+{
+  "name": "Gov vs. Corp: Indian Career Wealth Simulator",
+  "description": "Comprehensive financial modeling simulator comparing Indian Government (7th CPC, NPS/UPS, Pay Commissions) vs. Private Sector career wealth trajectories from age 25 to 80.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
